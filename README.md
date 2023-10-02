@@ -1,2 +1,4 @@
 # Truck_Load_Loading_Automation_System
 SECURITY CONTROLLED CARGO LOADING AUTOMATION SYSTEM WITH MOBILE APPLICATION FOR HEAVY VEHICLES
+
+VIDEO: https://www.youtube.com/watch?v=0MLdHug-yRA
